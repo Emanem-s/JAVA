@@ -7,7 +7,5 @@ public class SumaDeCalificaciones{
         int suma = calificacion1 + calificacion2 + calificacion3;
         System.out.println("La suma de las calificaciones es: " + suma);
         System.out.println("El promedio de las calificaciones es: " + (suma / 3.0));
-        
-        
     }
 }
